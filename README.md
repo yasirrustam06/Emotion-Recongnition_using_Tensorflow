@@ -9,3 +9,4 @@
 # OUtput
 <img width="904" alt="emoition_detection" src="https://github.com/yasirrustam06/Emotion-Recongnition_using_Tensorflow/assets/98689629/83618c32-24f1-485a-9bee-84d25f2bf215">
 # Nueral network ArchiTechture
+![emotion_rec](https://github.com/yasirrustam06/Emotion-Recongnition_using_Tensorflow/assets/98689629/363ed4e9-d922-4bea-91da-c974505f88ad)
